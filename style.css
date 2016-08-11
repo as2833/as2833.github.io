@@ -25,12 +25,12 @@ h2{
 }
 
 a {
-    color: #32763F;
+    color: #FFF8DC;
     text-decoration: none;
 }
 
 a:visited {
-    color: #9FC080;
+    color: #4169E1;
     text-decoration: none;
 }
 
@@ -62,7 +62,7 @@ img{
 }
 
 .redacted{
-    background-color: #D7CEC7;
+    background-color: #DDA0DD;
     color: #D7CEC7;
 }
 
